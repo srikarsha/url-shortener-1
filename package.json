@@ -7,5 +7,9 @@
   },
   "devDependencies": {
     "concurrently": "^8.0.1"
+  },
+  "dependencies": {
+    "@mantine/dates": "^8.3.1",
+    "qrcode.react": "^4.2.0"
   }
 }
